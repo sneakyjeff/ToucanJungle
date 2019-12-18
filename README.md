@@ -1,6 +1,6 @@
 # Static webpages
 
-* Making static webpage that uses HTML, CSS, JAVASCRIPT
+* Demo static webpage that uses HTML, CSS, JAVASCRIPT
 
 ## How To Use/Demo
 
